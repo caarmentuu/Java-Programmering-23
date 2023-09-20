@@ -1,3 +1,5 @@
+package exercises.solutions.E3.constructors;
+
 class Student {
     private String name;
     private int age;

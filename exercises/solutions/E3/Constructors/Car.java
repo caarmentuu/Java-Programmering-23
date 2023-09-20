@@ -1,3 +1,5 @@
+package exercises.solutions.E3.constructors;
+
 class Car {
     private String make;
     private String model;
